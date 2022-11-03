@@ -16,5 +16,5 @@
 ![me](https://github.com/Jdeshmukh23/Statistics-using-python/blob/main/Images%20%22/Skew.png)
 2. The prices of houses are directly correlated with the build year, The newer the house , the more expensive it is. With few outliers of cource.
 ![me](https://github.com/Jdeshmukh23/Statistics-using-python/blob/main/Images%20%22/years.png)
-3. Overall condition column is the score given to a perticular house considering all factors. There seems to be an interesting trend emerging. As OverallCondition score increases price of a house descreases. Thees two variables are in negative correlation 
+3. Overall condition column is the score given to a perticular house considering all factors. There seems to be an interesting trend emerging. As OverallCondition score increases price of a house descreases. These two variables are in negative correlation 
 ![me](https://github.com/Jdeshmukh23/Statistics-using-python/blob/main/Images%20%22/condition_VS_price.png)
