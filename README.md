@@ -1,4 +1,4 @@
-# Statistics-using-python
+# EDA / Statistics-using-python
 * This project deals with Exploratory Data analysis on housing prices.
 * The dataset used in a csv file which contains infromation about house prices and various attributes of a house. 
 # Introduction :
