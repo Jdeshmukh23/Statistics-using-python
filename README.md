@@ -14,3 +14,5 @@
 # Observations : 
 1. As we plot Sale Prices, it is evident that the plot is extremely right skewed. This suggests that the most of the house prices are concentrated around the mean that is 180921.19
 ![me](https://github.com/Jdeshmukh23/Statistics-using-python/blob/main/Images%20%22/Skew.png)
+2. The prices of houses are directly corellated with the build year, The newer the house , the more epensive it is.  
+![me](https://github.com/Jdeshmukh23/Statistics-using-python/blob/main/Images%20%22/years.png)
